@@ -1,0 +1,3 @@
+2026-02-22 20:50:21,786 - main - INFO - Banking system started.
+2026-02-22 20:50:21,788 - Bank - INFO - Loaded 0 customers, 0 accounts, 0 employees, 0 loans, 0 cards.
+2026-02-22 20:50:35,587 - Bank - INFO - Created customer cust_0a6faf7483 (jacob palomo).

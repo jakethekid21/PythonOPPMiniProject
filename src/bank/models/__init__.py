@@ -1,0 +1,1 @@
+"""Domain models for the banking system OPP project"""
